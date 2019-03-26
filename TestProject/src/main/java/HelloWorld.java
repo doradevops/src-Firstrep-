@@ -1,9 +1,8 @@
 
-public class TestProject {
+public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-// This is third commit
+System.out.println("Hello World");
 	}
-
 }
